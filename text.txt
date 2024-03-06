@@ -9,3 +9,5 @@ frntedn code edited without branching frontend
 backend feature 1 added
 backend feature 2 added
 
+new features added by other coders
+
